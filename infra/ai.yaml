@@ -1,6 +1,5 @@
 # yaml-language-server: $schema=ai.yaml.json
 
-
 deployments:
   - name: gpt-35-turbo
     model:
